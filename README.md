@@ -7,6 +7,7 @@ To run the project with full functionality, JSON Server must be started locally 
 
 ```bash
 json-server --watch api/db.json --port 3004
+```
 
 <img width="1439" height="679" alt="Home" src="https://github.com/user-attachments/assets/463d3d85-358d-4a64-851c-c54d2c3963b7" />
 <img width="1439" height="673" alt="Add" src="https://github.com/user-attachments/assets/980544a9-bdde-443d-8875-2beb614cd0d4" />
